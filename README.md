@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @risersam101
-- I’m interested in Android, web, Python development
+- I’m a full stack dev
+- Welcome to my repo.
 
 
